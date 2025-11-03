@@ -1,5 +1,1 @@
-```sql
 
-use database ff
-
-```
